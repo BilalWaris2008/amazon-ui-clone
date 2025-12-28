@@ -1,2 +1,2 @@
 # amazon-ui-clone
-A Amazon UI clone built using HTML and CSS.
+<h5>Amazon UI clone built using HTML and CSS.</h5 style="color=red;">
