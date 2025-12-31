@@ -126,18 +126,55 @@ span {
 
 /* box-6 */
 
-.nav-cart i{
- font-size: 30px;
+.nav-cart i {
+    font-size: 30px;
 }
 
-.nav-cart{
+.nav-cart {
     font-weight: bold;
     width: 85px;
     height: 45px;
-    padding-top: 9px;
+    padding-top: 13px;
     padding-left: 8px;
     cursor: pointer;
 }
+
+/* panel */
+
+.panel {
+    height: 40px;
+    background-color: #222f3d;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.panel-ops p {
+    display: inline;
+    margin-left: 15px;
+    width: 90px;
+    height: 45px;
+    padding: 9px 5px 9px 5px;
+    cursor: pointer;
+}
+
+.panel-ops {
+    width: 95%;
+    font-size: 1rem;
+}
+
+.all-panel p {
+    width: 45px;
+    height: auto;
+    padding: 8px 4px 8px 4px;
+    cursor: pointer;
+}
+
+.all-panel {
+    margin-left: 15px;
+}
+
 
 
 
